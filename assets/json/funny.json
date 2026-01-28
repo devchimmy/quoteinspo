@@ -1,0 +1,406 @@
+[
+	{
+		"id": 1,
+		"quote": "I tried cooking something new today. It turned out so bad, even my dog judged me in silence."
+	},
+	{
+		"id": 2,
+		"quote": "Why does my body make sound effects every time I stand up? I'm not that old… I think."
+	},
+	{
+		"id": 3,
+		"quote": "I told myself I’d be productive today. Instead, I mastered the art of staring blankly at walls."
+	},
+	{
+		"id": 4,
+		"quote": "My bank account and I have a love-hate relationship. I love money; it hates staying with me."
+	},
+	{
+		"id": 5,
+		"quote": "I googled 'how to be rich overnight' and it recommended sleep. Thanks, Internet."
+	},
+	{
+		"id": 6,
+		"quote": "Sometimes I laugh at my own jokes. Not because they’re funny, but because someone has to."
+	},
+	{
+		"id": 7,
+		"quote": "I joined a gym once. It was great—lots of mirrors to admire my pizza-eating form."
+	},
+	{
+		"id": 8,
+		"quote": "I asked the universe for a sign. It sent me three ads and a weird horoscope."
+	},
+	{
+		"id": 9,
+		"quote": "I bought a planner to organize my life. Now I just have a nicely decorated book of guilt."
+	},
+	{
+		"id": 10,
+		"quote": "You ever blink once and suddenly it’s 6 PM and you're still in pajamas? No? Just me?"
+	},
+	{
+		"id": 11,
+		"quote": "I used to think I was indecisive, but now I’m not too sure."
+	},
+	{
+		"id": 12,
+		"quote": "Who needs horror movies when you can open your front camera by accident?"
+	},
+	{
+		"id": 13,
+		"quote": "I made a salad today. Then I added croutons. And cheese. And bacon. So basically, I had a sandwich without bread."
+	},
+	{
+		"id": 14,
+		"quote": "Nothing ruins a Friday more than realizing it's actually Wednesday."
+	},
+	{
+		"id": 15,
+		"quote": "My favorite childhood memory is not paying bills."
+	},
+	{
+		"id": 16,
+		"quote": "Laundry day is when I finally acknowledge that I have too many clothes I don’t wear and none that are clean."
+	},
+	{
+		"id": 17,
+		"quote": "Being an adult is mostly whispering ‘what the…’ as you read bills and assemble IKEA furniture."
+	},
+	{
+		"id": 18,
+		"quote": "My mood swings are less ‘rollercoaster’ and more ‘haunted house.’"
+	},
+	{
+		"id": 19,
+		"quote": "I asked for a six-pack. The universe gave me a six-pack of donuts."
+	},
+	{
+		"id": 20,
+		"quote": "I tried meditating. I ended up thinking about tacos for 20 minutes."
+	},
+	{
+		"id": 21,
+		"quote": "Don't grow up, It's a trap. Trust me I'm currently stuck in the taxes part."
+	},
+	{
+		"id": 22,
+		"quote": "I smiled at my phone and it unlocked. I smiled at a human and they avoided eye contact. Technology wins again."
+	},
+	{
+		"id": 23,
+		"quote": "I have a PhD in overthinking and a master’s in making everything awkward."
+	},
+	{
+		"id": 24,
+		"quote": "My to do list today: wake up, survive, go back to bed."
+	},
+	{
+		"id": 25,
+		"quote": "I downloaded a productivity app. Now I’m procrastinating more efficiently."
+	},
+	{
+		"id": 26,
+		"quote": "Why do we call it 'sleeping in' when it feels more like 'battling to stay unconscious through responsibilities'?"
+	},
+	{
+		"id": 27,
+		"quote": "Someone said, ‘Do what you love.’ So now I nap professionally."
+	},
+	{
+		"id": 28,
+		"quote": "I put on jeans today. It’s basically a formal event at this point."
+	},
+	{
+		"id": 29,
+		"quote": "Every time I exercise, I reward myself with food. It’s a very slow cycle of self-sabotage."
+	},
+	{
+		"id": 30,
+		"quote": "I’ve reached that stage where I celebrate having energy, not birthdays."
+	},
+	{
+		"id": 31,
+		"quote": "I tried to write a motivational quote. Got distracted. Ordered pizza. Same vibe."
+	},
+	{
+		"id": 32,
+		"quote": "‘We need to talk’ is the adult version of ‘you’re in trouble.’"
+	},
+	{
+		"id": 33,
+		"quote": "I’m not saying I’m lazy, but I didn’t even blink during that whole Netflix episode."
+	},
+	{
+		"id": 34,
+		"quote": "Being sarcastic is like a second language I’m way too fluent in."
+	},
+	{
+		"id": 35,
+		"quote": "Don’t judge me by my search history. Judge Google for not understanding my chaotic brain."
+	},
+	{
+		"id": 36,
+		"quote": "I joined a meeting 5 minutes early just to prove I can be responsible. I spent 4 minutes regretting it."
+	},
+	{
+		"id": 37,
+		"quote": "There’s a special place in heaven for people who microwave leftovers without waking the house."
+	},
+	{
+		"id": 38,
+		"quote": "I tried going vegan, but cheese looked at me and whispered, 'don’t leave me.'"
+	},
+	{
+		"id": 39,
+		"quote": "I thought about jogging today. That was enough cardio."
+	},
+	{
+		"id": 40,
+		"quote": "My diet plan includes crying into my salad and then ordering fries."
+	},
+	{
+		"id": 41,
+		"quote": "I used to be cool. Now I just explain memes to people and go to bed at 9 PM."
+	},
+	{
+		"id": 42,
+		"quote": "‘Let’s take a short nap’ is the biggest lie I tell myself daily."
+	},
+	{
+		"id": 43,
+		"quote": "My brain: 'Let’s sleep early tonight.' Also my brain at 2 AM: 'Do penguins have knees?'"
+	},
+	{
+		"id": 44,
+		"quote": "I cleaned my entire apartment to avoid replying to one email."
+	},
+	{
+		"id": 45,
+		"quote": "Wearing socks that match is my version of having it all together."
+	},
+	{
+		"id": 46,
+		"quote": "They said, ‘dress for the job you want.’ So now I’m wearing a superhero cape and fuzzy slippers."
+	},
+	{
+		"id": 47,
+		"quote": "I tried mindfulness but my mind just ran off. Again."
+	},
+	{
+		"id": 48,
+		"quote": "Every time I fold laundry, I promise I’ll never let it pile up again. Every time I lie."
+	},
+	{
+		"id": 49,
+		"quote": "Don’t follow your dreams. Follow me. I’m lost too, but at least we’ll be confused together."
+	},
+	{
+		"id": 50,
+		"quote": "My hobbies include eating, sleeping, and overthinking everything I said in the last 10 years."
+	},
+	{
+		"id": 51,
+		"quote": "If I had a dollar for every time I forgot why I walked into a room, I could retire in style."
+	},
+	{
+		"id": 51,
+		"quote": "I bought a book on how to improve memory. I forgot where I put it."
+	},
+	{
+		"id": 52,
+		"quote": "Being an adult means you can eat ice cream for breakfast. Also means regretting it by lunch."
+	},
+	{
+		"id": 53,
+		"quote": "I sneezed in public and three people blessed me. I’m basically royalty now."
+	},
+	{
+		"id": 54,
+		"quote": "I joined a yoga class for inner peace. So far, I’ve only achieved outer muscle cramps."
+	},
+	{
+		"id": 55,
+		"quote": "They say money can’t buy happiness, but it can buy pizza and that’s pretty close."
+	},
+	{
+		"id": 56,
+		"quote": "I thought I had my life together until I tried folding a fitted sheet."
+	},
+	{
+		"id": 57,
+		"quote": "I’ve reached the age where my back goes out more than I do."
+	},
+	{
+		"id": 58,
+		"quote": "I whispered ‘I’m too tired for this’ before I even got out of bed today."
+	},
+	{
+		"id": 59,
+		"quote": "I cleaned out my inbox. It only took seven years and mild panic."
+	},
+	{
+		"id": 60,
+		"quote": "Every group project had that one person doing nothing. I was that person. Sorry."
+	},
+	{
+		"id": 61,
+		"quote": "I downloaded a meditation app. Now I just feel more relaxed while procrastinating."
+	},
+	{
+		"id": 62,
+		"quote": "Nothing humbles you like trying to put on jeans fresh out the dryer."
+	},
+	{
+		"id": 63,
+		"quote": "My kitchen is just a room where I reheat food and stare at the fridge."
+	},
+	{
+		"id": 64,
+		"quote": "I looked in the mirror and realized I’ve perfected the ‘functionally exhausted’ look."
+	},
+	{
+		"id": 65,
+		"quote": "Some people run marathons. I avoid puddles and call it agility training."
+	},
+	{
+		"id": 66,
+		"quote": "I told myself I'd go for a walk. Instead, I watched five people do it on Instagram."
+	},
+	{
+		"id": 67,
+		"quote": "I tried intermittent fasting but got stuck on the 'feasting' part."
+	},
+	{
+		"id": 68,
+		"quote": "The only running I do is after the ice cream truck—or away from responsibilities."
+	},
+	{
+		"id": 69,
+		"quote": "They said adulthood would be fun. They lied. It’s just dishes and emails forever."
+	},
+	{
+		"id": 70,
+		"quote": "Why go to therapy when you can just have a full blown conversation with yourself in the shower?"
+	},
+	{
+		"id": 71,
+		"quote": "I now understand why cats knock stuff off tables. Chaos is therapeutic."
+	},
+	{
+		"id": 72,
+		"quote": "I don't have road rage, I have road 'mild irritation' with dramatic facial expressions."
+	},
+	{
+		"id": 73,
+		"quote": "I tried a smoothie cleanse once. Ended up cleansing my will to live instead."
+	},
+	{
+		"id": 74,
+		"quote": "Sometimes I put my phone down just to see how fast I’ll pick it up again. It’s instant."
+	},
+	{
+		"id": 75,
+		"quote": "I have commitment issues with TV shows, books, and social plans."
+	},
+	{
+		"id": 76,
+		"quote": "I finally got my life together… for about 6 minutes. It was magical."
+	},
+	{
+		"id": 77,
+		"quote": "I used to be spontaneous, now I need three business days to mentally prepare."
+	},
+	{
+		"id": 78,
+		"quote": "I replaced my alarm with a motivational quote. Now I oversleep and feel inspired."
+	},
+	{
+		"id": 79,
+		"quote": "My fashion style is called ‘laundry day meets I tried.’"
+	},
+	{
+		"id": 80,
+		"quote": "I read labels on food as if I understand what any of it means."
+	},
+	{
+		"id": 81,
+		"quote": "I once tried organizing my apps. Now they’re all in one folder called ‘chaos.’"
+	},
+	{
+		"id": 82,
+		"quote": "When I say ‘I’ll be there in 5 minutes,’ what I mean is ‘I haven’t left yet.’"
+	},
+	{
+		"id": 83,
+		"quote": "I told my plants about my problems. They’re growing faster—probably trying to escape."
+	},
+	{
+		"id": 84,
+		"quote": "I made a budget. Now I’m broke in a very organized way."
+	},
+	{
+		"id": 85,
+		"quote": "The Wi-Fi went out and I had to talk to people in my house. They seem nice."
+	},
+	{
+		"id": 86,
+		"quote": "I joined a book club. We meet monthly to drink wine and pretend we read."
+	},
+	{
+		"id": 87,
+		"quote": "I said I’d eat healthier, but my fridge said, ‘Live a little.’"
+	},
+	{
+		"id": 88,
+		"quote": "Why do I pay for streaming if I just keep rewatching the same three shows?"
+	},
+	{
+		"id": 89,
+		"quote": "I went to a silent retreat once. Lasted 12 minutes before I sneezed."
+	},
+	{
+		"id": 90,
+		"quote": "I tried a DIY project from Pinterest. Now I need a professional and a hug."
+	},
+	{
+		"id": 91,
+		"quote": "The gym called to ask where I’ve been. I blocked the number."
+	},
+	{
+		"id": 92,
+		"quote": "I own more reusable bags than actual groceries."
+	},
+	{
+		"id": 93,
+		"quote": "I say 'just one episode' like it's not a gateway lie to eight hours of binge-watching."
+	},
+	{
+		"id": 94,
+		"quote": "I once scheduled ‘me time.’ I spent it overthinking everything I’ve ever said."
+	},
+	{
+		"id": 95,
+		"quote": "I’m not high maintenance—I’m just consistently mildly inconvenient."
+	},
+	{
+		"id": 96,
+		"quote": "I installed a fitness app. It keeps congratulating me for walking to the fridge."
+	},
+	{
+		"id": 97,
+		"quote": "I told my cat all my secrets. She walked away. I get it."
+	},
+	{
+		"id": 98,
+		"quote": "‘You need sleep to function.’ Okay but I also need internet, snacks, and emotional stability."
+	},
+	{
+		"id": 99,
+		"quote": "If I had a dollar for every ‘update your password’ email, I’d still be broke but mildly entertained."
+	},
+	{
+		"id": 100,
+		"quote": "Nothing builds character like trying to assemble furniture with no instructions and mild rage."
+	}
+]

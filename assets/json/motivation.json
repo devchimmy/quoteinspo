@@ -1,0 +1,402 @@
+[
+	{
+		"id": 1,
+		"quote": "Some days you won’t feel like doing anything, and that’s okay. But what matters is that you show up for yourself even if it’s just a little. A small win is still a win."
+	},
+	{
+		"id": 2,
+		"quote": "You’re not behind; you’re just living your story at a different pace than others. Progress isn’t always loud or obvious, it’s often quiet, steady, and deeply personal."
+	},
+	{
+		"id": 3,
+		"quote": "Don’t underestimate the power of stubborn hope. When everything feels uncertain, sometimes the boldest thing you can do is believe things will get better."
+	},
+	{
+		"id": 4,
+		"quote": "Motivation isn’t about feeling pumped all the time. It’s about doing the work even when you’d rather do anything else. That’s how real change begins."
+	},
+	{
+		"id": 5,
+		"quote": "Some days you’ll crush your goals. Other days, just brushing your teeth and getting out of bed will be the victory. Honor both."
+	},
+	{
+		"id": 6,
+		"quote": "Growth doesn’t always feel good. Sometimes it feels like falling apart. But that’s just the process of becoming someone stronger."
+	},
+	{
+		"id": 7,
+		"quote": "You don’t need a massive breakthrough to move forward. Sometimes it’s just one more step, one more day, one more try."
+	},
+	{
+		"id": 8,
+		"quote": "It’s okay if you’re tired. Rest is part of the process. Burnout isn’t a badge of honor, recovery is a strategy."
+	},
+	{
+		"id": 9,
+		"quote": "Don’t let perfection paralyze you. Done is always better than waiting forever to get it ‘just right.’ Progress is messy. Let it be."
+	},
+	{
+		"id": 10,
+		"quote": "You’re allowed to be a work in progress and still be proud of how far you’ve come. Don’t wait for perfection to celebrate yourself."
+	},
+	{
+		"id": 11,
+		"quote": "No one sees all the little efforts you make daily but they count. They build the quiet foundation for your future success."
+	},
+	{
+		"id": 12,
+		"quote": "Your path won’t look like anyone else’s and that’s your power. Comparison only steals the joy of what you’re building."
+	},
+	{
+		"id": 13,
+		"quote": "The dream doesn’t have to make sense to everyone. It just has to matter to you. That’s enough."
+	},
+	{
+		"id": 14,
+		"quote": "You don’t need to have it all figured out. Just take the next honest step. Clarity often comes from action, not overthinking."
+	},
+	{
+		"id": 15,
+		"quote": "Doubt will try to whisper in your ear, but your job is to speak back with courage even if your voice shakes."
+	},
+	{
+		"id": 16,
+		"quote": "You’ve survived every tough day so far. That’s not luck, it’s proof that you’re stronger than your worst moments."
+	},
+	{
+		"id": 17,
+		"quote": "Some of your biggest breakthroughs will come right after you nearly give up. Hang on a little longer, you might be closer than you think."
+	},
+	{
+		"id": 18,
+		"quote": "Stop waiting to feel ‘ready.’ Most people who succeed started scared. Confidence grows from doing."
+	},
+	{
+		"id": 19,
+		"quote": "Success isn’t a single event. It’s the sum of tiny choices made over and over when no one’s watching."
+	},
+	{
+		"id": 20,
+		"quote": "The mountain you’re climbing isn’t just about reaching the top. It’s about who you become on the way up."
+	},
+	{
+		"id": 21,
+		"quote": "You don’t have to hustle every second to be worthy. Your value isn’t tied to productivity don’t forget that."
+	},
+	{
+		"id": 22,
+		"quote": "Courage doesn’t always look like action movies. Sometimes it’s making that phone call, sending that email, or asking for help."
+	},
+	{
+		"id": 23,
+		"quote": "Fear means you’re stepping outside your comfort zone. That’s where the good stuff happens even if it’s scary."
+	},
+	{
+		"id": 24,
+		"quote": "One failure doesn’t define you. Ten failures don’t. They’re just data. Use them. Adjust. Try again."
+	},
+	{
+		"id": 25,
+		"quote": "Even if you have to start over a hundred times, it doesn’t mean you’ve failed. It means you’re still fighting for your future."
+	},
+	{
+		"id": 26,
+		"quote": "Sometimes you’re not lazy, you’re overwhelmed. Be kind to yourself. Sort the chaos slowly."
+	},
+	{
+		"id": 27,
+		"quote": "Consistency will get you farther than bursts of motivation. It’s not about being extreme, it’s about being sustainable."
+	},
+	{
+		"id": 28,
+		"quote": "Just because something is hard doesn’t mean it’s wrong. Growth often disguises itself as discomfort."
+	},
+	{
+		"id": 29,
+		"quote": "There’s no shame in starting small. All great things do. Just start. The rest will follow."
+	},
+	{
+		"id": 30,
+		"quote": "You won’t always feel like it. But doing it anyway? That’s where the magic happens."
+	},
+	{
+		"id": 31,
+		"quote": "Success isn’t built on luck or talent alone, it’s built on the quiet days when you show up despite the doubt."
+	},
+	{
+		"id": 32,
+		"quote": "Nobody has it all together. Don’t let curated lives on social media fool you. Everyone’s figuring it out."
+	},
+	{
+		"id": 33,
+		"quote": "You’re not too late. You’re not too old. You’re not too inexperienced. You’re exactly where you need to begin."
+	},
+	{
+		"id": 34,
+		"quote": "You might not see the results today, but every bit of effort you give is planting a seed. Keep watering it."
+	},
+	{
+		"id": 35,
+		"quote": "Life doesn’t wait for the perfect moment to change. You change it by deciding today matters."
+	},
+	{
+		"id": 36,
+		"quote": "You don’t need to be extraordinary to do something meaningful. You just need to care enough to try."
+	},
+	{
+		"id": 37,
+		"quote": "Keep going even if it’s slow. Forward is forward. Momentum builds from motion, not speed."
+	},
+	{
+		"id": 38,
+		"quote": "You have more strength than you give yourself credit for. Remember the times you thought you couldn’t yet did."
+	},
+	{
+		"id": 39,
+		"quote": "Discipline isn’t punishment, it’s self-respect in motion. It’s choosing what matters over what’s easy."
+	},
+	{
+		"id": 40,
+		"quote": "You’re not broken for needing time. Healing and growing both require patience, not pressure."
+	},
+	{
+		"id": 41,
+		"quote": "The version of you that you’re dreaming about? You’re already becoming them, every small action is a brick in that foundation."
+	},
+	{
+		"id": 42,
+		"quote": "Even when you feel stuck, you’re still moving. Rest is not regression. Pausing is not quitting."
+	},
+	{
+		"id": 43,
+		"quote": "Believe in your potential louder than you believe in your fear. You are capable of more than you think."
+	},
+	{
+		"id": 44,
+		"quote": "It’s okay to take a detour. Sometimes the scenic route teaches you more than the straight path ever could."
+	},
+	{
+		"id": 45,
+		"quote": "It doesn’t have to be big. Just do something today your future self will thank you for."
+	},
+	{
+		"id": 46,
+		"quote": "The only timeline that matters is your own. There’s no expiration date on your dreams."
+	},
+	{
+		"id": 47,
+		"quote": "If you’re not where you want to be yet, that’s fine. You’re still writing the story. Every chapter has a purpose."
+	},
+	{
+		"id": 48,
+		"quote": "Keep showing up for yourself even when the world doesn’t notice. Your effort is never wasted."
+	},
+	{
+		"id": 49,
+		"quote": "Every champion was once a beginner who didn’t quit. Let that sink in."
+	},
+	{
+		"id": 50,
+		"quote": "Give yourself credit. You’ve survived storms that others didn’t even know you were in. You’re still here. That matters."
+	},
+	{
+		"id": 51,
+		"quote": "You don’t need to rush to catch up. What’s meant for you won’t miss you if you keep walking toward it with heart and effort."
+	},
+	{
+		"id": 52,
+		"quote": "Not every day has to be productive to be valuable. Some days exist simply so you can breathe, rest, and reset."
+	},
+	{
+		"id": 53,
+		"quote": "Courage is saying yes to showing up even when everything in you wants to hide. That’s not weakness, it’s bravery."
+	},
+	{
+		"id": 54,
+		"quote": "Start messy. Start unsure. Start with fear in your chest and trembling hands. But just start."
+	},
+	{
+		"id": 55,
+		"quote": "You’re not the same person you were a year ago. That’s growth. You’ve quietly outgrown versions of yourself you used to cling to."
+	},
+	{
+		"id": 56,
+		"quote": "You won’t always feel inspired, but you can choose to stay committed. Commitment is the bridge between now and the life you want."
+	},
+	{
+		"id": 57,
+		"quote": "It’s okay to need a break. It doesn’t make you lazy or weak, it makes you human. Even machines need to power down."
+	},
+	{
+		"id": 58,
+		"quote": "Your dreams don’t have to be practical to be valid. Let your passion be enough to start the journey."
+	},
+	{
+		"id": 59,
+		"quote": "You’ll get farther being consistent than being intense. Show up regularly. That’s the real game changer."
+	},
+	{
+		"id": 60,
+		"quote": "Don’t wait until you feel brave to take the leap. The leap is what makes you brave."
+	},
+	{
+		"id": 61,
+		"quote": "Each step you take, even if it feels small, is a rebellion against the part of you that says you can’t. Keep rebelling."
+	},
+	{
+		"id": 62,
+		"quote": "Progress looks different on everyone. What takes someone a week might take you a year and that’s okay. Go your speed."
+	},
+	{
+		"id": 63,
+		"quote": "Sometimes the win is simply not giving up. Celebrate the quiet victories, they count too."
+	},
+	{
+		"id": 64,
+		"quote": "You don’t need to erase your fear to move forward. Just don’t let it drive. Let your hope steer instead."
+	},
+	{
+		"id": 65,
+		"quote": "Even if the results aren’t here yet, the work is working. Trust the unseen progress."
+	},
+	{
+		"id": 66,
+		"quote": "You can have bad days and still be a strong person. Strength isn’t about never falling, it’s about choosing to rise again."
+	},
+	{
+		"id": 67,
+		"quote": "You’re not rebuilding from scratch, you’re rebuilding from experience. You’re not starting over, you’re starting wiser."
+	},
+	{
+		"id": 68,
+		"quote": "Success isn’t a constant climb. It’s hills, valleys, and plateaus. Don’t quit in the valley, you’re still on the path."
+	},
+	{
+		"id": 69,
+		"quote": "If you’re not where you want to be, it doesn’t mean you’re failing. It means you’re still learning what works for you."
+	},
+	{
+		"id": 70,
+		"quote": "Some days you’ll be the fire. Other days, the ashes. Both are part of the journey toward becoming."
+	},
+	{
+		"id": 71,
+		"quote": "Let your setbacks teach you, not define you. There’s wisdom in every wrong turn if you’re willing to look for it."
+	},
+	{
+		"id": 72,
+		"quote": "Rest isn’t a reward for doing enough. It’s a requirement for doing well. Take it without guilt."
+	},
+	{
+		"id": 73,
+		"quote": "Growth isn’t always visible to the outside world. That doesn’t make it any less real. Keep going."
+	},
+	{
+		"id": 74,
+		"quote": "You are not the voice in your head that says you can’t. You are the one who keeps showing up anyway."
+	},
+	{
+		"id": 75,
+		"quote": "You can be scared and still choose to keep moving forward. That’s what courage looks like in real life."
+	},
+	{
+		"id": 76,
+		"quote": "You’re not falling behind. You’re unfolding, layer by layer, into exactly who you were meant to be."
+	},
+	{
+		"id": 77,
+		"quote": "Start where you are. Use what you have. Do what you can. That’s always enough to begin."
+	},
+	{
+		"id": 78,
+		"quote": "Your purpose doesn’t need to be loud or flashy. Sometimes it’s found in quiet acts of resilience and grace."
+	},
+	{
+		"id": 79,
+		"quote": "You don’t need a plan for the next five years, just a plan for today. And then do it again tomorrow."
+	},
+	{
+		"id": 80,
+		"quote": "It’s okay to pause and reevaluate. Growth requires reflection. Redirection isn’t failure, it’s strategy."
+	},
+	{
+		"id": 81,
+		"quote": "If you’re doubting your progress, look back at where you started. You’ve already come so far."
+	},
+	{
+		"id": 82,
+		"quote": "The road might be long, but the destination is built with each step. Every step counts."
+	},
+	{
+		"id": 83,
+		"quote": "Trust your pace, even if it feels slower than others. You’re not late, you’re in alignment with your journey."
+	},
+	{
+		"id": 84,
+		"quote": "The pressure to have it all figured out is a myth. Life unfolds in seasons. Let this one teach you."
+	},
+	{
+		"id": 85,
+		"quote": "Healing isn’t linear. Growth isn’t either. Be gentle with the zigzags. They’re still movement."
+	},
+	{
+		"id": 86,
+		"quote": "You’re not too much or too little, you’re just enough to do something meaningful with your time here."
+	},
+	{
+		"id": 87,
+		"quote": "The hardest part is often starting. The second hardest is believing it’s okay to keep going."
+	},
+	{
+		"id": 88,
+		"quote": "Your progress might not look dramatic, but if it’s genuine, it’s powerful. Keep showing up."
+	},
+	{
+		"id": 89,
+		"quote": "Perfection isn’t the goal—presence is. Be here now. This moment is your stepping stone."
+	},
+	{
+		"id": 90,
+		"quote": "Change takes time. But time is going to pass anyway. Might as well spend it building something you believe in."
+	},
+	{
+		"id": 91,
+		"quote": "You might be underestimating your own resilience. You’ve survived things that once felt impossible."
+	},
+	{
+		"id": 92,
+		"quote": "There is no “right” timeline. There is only your path, your choices, your persistence."
+	},
+	{
+		"id": 93,
+		"quote": "You can be both proud of how far you’ve come and eager for what’s next. Gratitude and ambition can coexist."
+	},
+	{
+		"id": 94,
+		"quote": "Even on your worst days, you are worthy of kindness from others, and especially from yourself."
+	},
+	{
+		"id": 95,
+		"quote": "The days you want to quit are often the days right before a breakthrough. Hold the line."
+	},
+	{
+		"id": 96,
+		"quote": "Celebrate every inch forward. They add up to miles. The small wins matter more than you know."
+	},
+	{
+		"id": 97,
+		"quote": "You don’t have to earn your rest. It’s your birthright. Rest is part of the rhythm of creation."
+	},
+	{
+		"id": 98,
+		"quote": "Be the person who keeps going, even when it’s hard. Your future self is already cheering for you."
+	},
+	{
+		"id": 99,
+		"quote": "Everything you’re working toward is already inside you. You’re just uncovering it, one brave moment at a time."
+	},
+	{
+		"id": 100,
+		"quote": "The world needs your light not your perfection. Shine anyway, even if it flickers sometimes."
+	}
+]

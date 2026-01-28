@@ -1,0 +1,406 @@
+[
+	{
+		"id": 1,
+		"quote": "Fitness isn’t just about lifting weights or running miles, it’s about choosing to show up for yourself every day, even when motivation runs dry."
+	},
+	{
+		"id": 2,
+		"quote": "Progress in fitness is measured in commitment, not perfection. It’s about choosing to keep going, even after the off days."
+	},
+	{
+		"id": 3,
+		"quote": "Working out isn’t punishment, it’s a celebration of what your body can do when your mind believes in it."
+	},
+	{
+		"id": 4,
+		"quote": "Real fitness is about building strength from the inside out, mental toughness, physical capability, and emotional resilience."
+	},
+	{
+		"id": 5,
+		"quote": "You don’t need to be extreme just consistent. Small, daily efforts lead to big, lasting changes."
+	},
+	{
+		"id": 6,
+		"quote": "Every drop of sweat is a step toward becoming the version of yourself that you’ve always wanted to meet."
+	},
+	{
+		"id": 7,
+		"quote": "Fitness isn’t a destination, it’s a lifelong relationship with your body, your habits, and your mindset."
+	},
+	{
+		"id": 8,
+		"quote": "The hardest part of any workout is starting. The best part is proving to yourself that you didn’t quit."
+	},
+	{
+		"id": 9,
+		"quote": "Your body is your home, treat it with respect, move it with love, and fuel it with purpose."
+	},
+	{
+		"id": 10,
+		"quote": "The scale can’t measure your strength, discipline, or determination. Fitness is more than a number."
+	},
+	{
+		"id": 11,
+		"quote": "Success in fitness is less about speed and more about staying in the race, no matter how slowly you move."
+	},
+	{
+		"id": 12,
+		"quote": "Your mind will quit a thousand times before your body does. Train your thoughts like you train your muscles."
+	},
+	{
+		"id": 13,
+		"quote": "Fitness teaches you that discomfort isn’t danger, it’s growth knocking at your door."
+	},
+	{
+		"id": 14,
+		"quote": "You won’t always be motivated. That’s why discipline is your greatest training partner."
+	},
+	{
+		"id": 15,
+		"quote": "The gym isn’t just a place, it’s a proving ground where you meet the strongest version of yourself, one rep at a time."
+	},
+	{
+		"id": 16,
+		"quote": "Celebrate every step forward, no matter how small. Consistency compounds and builds greatness."
+	},
+	{
+		"id": 17,
+		"quote": "Fitness isn’t about being better than someone else, it’s about being stronger than you were yesterday."
+	},
+	{
+		"id": 18,
+		"quote": "Strength isn’t just in how much you lift. It’s in showing up, even when no one’s watching."
+	},
+	{
+		"id": 19,
+		"quote": "You don’t have to feel ready. You just have to start. Momentum will meet you along the way."
+	},
+	{
+		"id": 20,
+		"quote": "The transformation isn’t just physical. It’s mental. It’s emotional. It’s personal victory over excuses."
+	},
+	{
+		"id": 21,
+		"quote": "The mirror might not show progress every day, but your energy, your confidence, and your endurance will."
+	},
+	{
+		"id": 22,
+		"quote": "Fitness is a mindset, when you commit to becoming stronger, every area of your life begins to shift."
+	},
+	{
+		"id": 23,
+		"quote": "It’s not about having time, it’s about making time. You prioritize what matters most."
+	},
+	{
+		"id": 24,
+		"quote": "Some days, your best will look different, but showing up is always a win."
+	},
+	{
+		"id": 25,
+		"quote": "Don’t wait for motivation to knock. Build a routine so strong that it runs on discipline instead."
+	},
+	{
+		"id": 26,
+		"quote": "No one else can do the reps for you. Fitness rewards effort, not entitlement."
+	},
+	{
+		"id": 27,
+		"quote": "Fitness is the slow, steady reminder that you’re capable of more than your excuses suggest."
+	},
+	{
+		"id": 28,
+		"quote": "Every workout is a vote for the kind of person you’re becoming—stronger, more determined, and resilient."
+	},
+	{
+		"id": 29,
+		"quote": "There are no shortcuts in fitness. Only honest effort, repeated until it becomes habit."
+	},
+	{
+		"id": 30,
+		"quote": "You don’t have to be perfect. You just have to be persistent."
+	},
+	{
+		"id": 31,
+		"quote": "Fitness is where confidence is built not by looking good, but by doing hard things and not backing down."
+	},
+	{
+		"id": 32,
+		"quote": "The days you don’t want to train are the days your discipline trains you."
+	},
+	{
+		"id": 33,
+		"quote": "Don’t chase aesthetic goals alone, chase the power, the endurance, and the confidence that come with the grind."
+	},
+	{
+		"id": 34,
+		"quote": "In the end, your body reflects the choices you make consistently, not occasionally."
+	},
+	{
+		"id": 35,
+		"quote": "Fitness doesn’t ask for perfection, it asks for presence. Just show up."
+	},
+	{
+		"id": 36,
+		"quote": "The real transformation begins when working out becomes a part of your identity, not a chore on your to-do list."
+	},
+	{
+		"id": 37,
+		"quote": "Fitness is an investment in yourself with the highest return, more energy, more strength, more life."
+	},
+	{
+		"id": 38,
+		"quote": "You’ll never regret a workout, but you might regret giving up on yourself."
+	},
+	{
+		"id": 39,
+		"quote": "Fitness isn’t just about six-packs and sweats, it’s about showing yourself you can do hard things."
+	},
+	{
+		"id": 40,
+		"quote": "The stronger your body becomes, the quieter your doubts get."
+	},
+	{
+		"id": 41,
+		"quote": "There’s power in progress, even when it’s invisible to others. You feel it every time you don’t quit."
+	},
+	{
+		"id": 42,
+		"quote": "Let your goals be stronger than your excuses. One decision at a time builds momentum."
+	},
+	{
+		"id": 43,
+		"quote": "You don’t need fancy equipment, just the courage to start and the grit to keep going."
+	},
+	{
+		"id": 44,
+		"quote": "Fitness doesn’t get easier, you just get stronger, and that’s what makes it worth it."
+	},
+	{
+		"id": 45,
+		"quote": "It’s not about being the best, it’s about being better than you were yesterday."
+	},
+	{
+		"id": 46,
+		"quote": "The journey is long, but every rep, every run, and every choice is a step toward who you want to be."
+	},
+	{
+		"id": 47,
+		"quote": "Discomfort in training teaches comfort in life. Growth happens when you stretch yourself."
+	},
+	{
+		"id": 48,
+		"quote": "Every time you lace up your shoes or step into the gym, you’re proving to yourself that you matter."
+	},
+	{
+		"id": 49,
+		"quote": "Your health is your foundation. Build it strong, and everything else becomes easier to carry."
+	},
+	{
+		"id": 50,
+		"quote": "Be patient with your progress and proud of your persistence. Fitness rewards the long game."
+	},
+	{
+		"id": 51,
+		"quote": "Fitness is self respect in motion sweat, strength, and showing up when it’s hard."
+	},
+	{
+		"id": 51,
+		"quote": "Strength isn’t just built in the gym, it’s forged in every moment you choose to push forward when quitting feels easier."
+	},
+	{
+		"id": 52,
+		"quote": "The body achieves what the mind believes. Keep your thoughts aligned with your goals, and your muscles will follow."
+	},
+	{
+		"id": 53,
+		"quote": "Fitness isn’t about punishing yourself for what you ate. It’s about celebrating your ability to move, grow, and become stronger."
+	},
+	{
+		"id": 54,
+		"quote": "You can’t expect change if you don’t challenge yourself. Comfort zones never build champions."
+	},
+	{
+		"id": 55,
+		"quote": "Every rep, every run, every drop of sweat is a message to yourself: ‘I’m not giving up on me.’"
+	},
+	{
+		"id": 56,
+		"quote": "Muscles grow in the moments you struggle, not in the moments of ease. Embrace the challenge, it’s part of the transformation."
+	},
+	{
+		"id": 57,
+		"quote": "Rest is not weakness. It’s recovery. Progress needs balance, not burnout."
+	},
+	{
+		"id": 58,
+		"quote": "Discipline is the bridge between wishing and becoming. Build it one action at a time."
+	},
+	{
+		"id": 59,
+		"quote": "Some days you lift the weights. Some days they feel like they’re lifting you but you show up anyway, and that’s the win."
+	},
+	{
+		"id": 60,
+		"quote": "Don’t compare your chapter one to someone else’s chapter twenty. Your journey is valid, unique, and worth honoring."
+	},
+	{
+		"id": 61,
+		"quote": "Your body will adapt to what you repeatedly demand of it. So demand strength, endurance, and resilience."
+	},
+	{
+		"id": 62,
+		"quote": "The best project you’ll ever work on is yourself. Show up for that project like your future depends on it, because it does."
+	},
+	{
+		"id": 63,
+		"quote": "Your comfort zone is beautiful, but nothing grows there. Growth is earned in sweat and discomfort."
+	},
+	{
+		"id": 64,
+		"quote": "You don’t need to move mountains today. Just move your body, and let the momentum carry you."
+	},
+	{
+		"id": 65,
+		"quote": "Fitness is freedom, the freedom to move, to breathe deeply, and to live fully in your own skin."
+	},
+	{
+		"id": 66,
+		"quote": "When fitness becomes a lifestyle, the gym is no longer a task. It’s therapy, fuel, and a place of personal power."
+	},
+	{
+		"id": 67,
+		"quote": "You can either find a way or find an excuse but both lead you somewhere. Choose your direction wisely."
+	},
+	{
+		"id": 68,
+		"quote": "One workout won’t change your life, but the mindset that gets you to that workout every day will."
+	},
+	{
+		"id": 69,
+		"quote": "Fitness isn’t about being thin, it’s about being powerful, energized, and at peace with your body."
+	},
+	{
+		"id": 70,
+		"quote": "Fall in love with the process. That’s where the magic happens not just in results, but in the becoming."
+	},
+	{
+		"id": 71,
+		"quote": "It’s okay to be a beginner. Every pro was once someone who decided to try, fail, and try again."
+	},
+	{
+		"id": 72,
+		"quote": "Your muscles remember the days you chose to fight through the fatigue. So does your mind."
+	},
+	{
+		"id": 73,
+		"quote": "Every workout is a chance to prove to yourself that you’re not giving up, not today, not ever."
+	},
+	{
+		"id": 74,
+		"quote": "Progress in fitness is often invisible to others but you’ll feel it in your posture, your energy, your spirit."
+	},
+	{
+		"id": 75,
+		"quote": "There’s strength in showing up when it’s hard. That’s where confidence and character are built."
+	},
+	{
+		"id": 76,
+		"quote": "You can’t outsource effort. The grind is yours, and so is the pride that comes with it."
+	},
+	{
+		"id": 77,
+		"quote": "Don’t chase perfection. Chase the feeling of becoming someone who doesn’t quit on themselves."
+	},
+	{
+		"id": 78,
+		"quote": "The real flex isn’t your muscles, it’s your mindset. Strength starts there."
+	},
+	{
+		"id": 79,
+		"quote": "Working out teaches you that you’re in charge of your own power. You decide how strong you’ll become."
+	},
+	{
+		"id": 80,
+		"quote": "Fitness is the ultimate self investment, one that pays in clarity, strength, and years added to your life."
+	},
+	{
+		"id": 81,
+		"quote": "Every step you take, every lift you push, every breath you catch, it's all shaping a better and bolder you."
+	},
+	{
+		"id": 82,
+		"quote": "Motivation is fleeting. Habit is forever. Build systems that support who you want to be."
+	},
+	{
+		"id": 83,
+		"quote": "The heaviest thing you’ll ever lift is your own self doubt. Crush that, and the rest is easy."
+	},
+	{
+		"id": 84,
+		"quote": "Every day you train, you rewrite the story of what you thought you couldn’t do."
+	},
+	{
+		"id": 85,
+		"quote": "Fitness is a form of self respect it’s your way of saying, ‘I care enough to take care of me.’"
+	},
+	{
+		"id": 86,
+		"quote": "The gym doesn’t give you strength. It reveals the strength that’s already within you."
+	},
+	{
+		"id": 87,
+		"quote": "It’s not about how you start. It’s about how many times you rise when you stumble."
+	},
+	{
+		"id": 88,
+		"quote": "Fuel your body not just for how it looks, but for the amazing things it allows you to do."
+	},
+	{
+		"id": 89,
+		"quote": "When you train your body, you train your mind to embrace discipline, effort, and endurance."
+	},
+	{
+		"id": 90,
+		"quote": "Pain is temporary. Pride in your progress is forever."
+	},
+	{
+		"id": 91,
+		"quote": "Fitness is a slow burn. But with every drop of sweat, you’re lighting your fire."
+	},
+	{
+		"id": 92,
+		"quote": "There’s no magic in fitness, just repeated effort, belief, and time."
+	},
+	{
+		"id": 93,
+		"quote": "Your strongest muscle is your mindset. Keep it focused, and the rest will follow."
+	},
+	{
+		"id": 94,
+		"quote": "Fitness is an act of gratitude for the body you’ve been given. Treat it like the gift it is."
+	},
+	{
+		"id": 95,
+		"quote": "Don’t wait until you’ve reached your goal to be proud. Be proud of every step you take toward it."
+	},
+	{
+		"id": 96,
+		"quote": "Your journey won’t look like anyone else’s and that’s what makes it powerful."
+	},
+	{
+		"id": 97,
+		"quote": "You don’t just train for the body. You train for the strength to overcome life’s weight, too."
+	},
+	{
+		"id": 98,
+		"quote": "Some workouts will feel like therapy, others like a battle but all of them move you forward."
+	},
+	{
+		"id": 99,
+		"quote": "In fitness and in life, growth starts where comfort ends. Step beyond the line, and grow."
+	},
+	{
+	"id": 100,
+	"quote": "You won’t always feel motivated, but you’ll always feel better after you try. One rep can change your whole mood."
+}
+]

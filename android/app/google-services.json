@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "174352279708",
+    "project_id": "quoteapplication101",
+    "storage_bucket": "quoteapplication101.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174352279708:android:fddcc0b40e1a3ec43ee559",
+        "android_client_info": {
+          "package_name": "com.example.quote_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABe4w3EN3GDk3SqWIASiNDAIh15p9NyKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174352279708:android:d9922a3884d5b6d63ee559",
+        "android_client_info": {
+          "package_name": "com.quoteinspo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABe4w3EN3GDk3SqWIASiNDAIh15p9NyKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
